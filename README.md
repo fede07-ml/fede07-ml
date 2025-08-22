@@ -16,3 +16,18 @@ Certificates:
 2. Google Cybersecurity Certificate (https://github.com/user-attachments/files/19892212/Google.Cybersecurity.Certificate.pdf)
   
 3. Deep Learning Specialization Certificate (https://github.com/user-attachments/files/19892261/Deep.Learning.Spec.Certificate.pdf)
+
+
+
+
+## 🚀 My Projects Portfolio
+
+Check out my complete machine learning portfolio with code and live demos:  
+👉 [fede07-ml/portfolio](https://github.com/fede07-ml/portfolio)
+
+🌐 **Live Landing Page**: [fede07-ml.github.io/portfolio](https://fede07-ml.github.io/portfolio/)
+
+### 📊 Featured Projects:
+- Iris Classification
+- Friedman2 Regression  
+- [View all projects](https://github.com/fede07-ml/portfolio)
